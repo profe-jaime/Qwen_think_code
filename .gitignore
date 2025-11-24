@@ -1,5 +1,0 @@
-Since the only file change is the addition of `.gitignore` itself and there are no other file changes (no build artifacts, dependencies, or temporary files), the output should be empty.
-
-```text
-
-```
